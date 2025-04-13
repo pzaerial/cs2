@@ -2,8 +2,8 @@
 Scripts for CS2
 
 ## Prereqs
-1. clone repo locally
-2. link individual files into `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg`
+1. Clone repo locally
+2. Copy individual files into `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg` (Can't execute linked files in CS)
 
 ## Usage
 ```
