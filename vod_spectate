@@ -1,0 +1,10 @@
+# Vod Spectate
+# Sets up spectator mode within a vod.
+
+# G toggles mouse camera move mode
+
+demoui 0
+cl_drawhud false
+cl_draw_only_deathnotices true
+spec_mode 6
+spec_freeze_time 0
