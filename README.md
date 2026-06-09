@@ -10,3 +10,6 @@ Scripts for CS2
 exec name_of_script
 ```
 e.g. `exec practice`
+
+## Notes
+- `autoexec.cfg` is a special name and is executed upon startup.
